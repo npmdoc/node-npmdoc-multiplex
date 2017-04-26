@@ -13978,7 +13978,6 @@ vendor\\)s\\{0,1\\}\\(\\b\\|_\\)\
             [
                 [local, 'child_process'],
                 [local, 'cluster'],
-                [local, 'fs'],
                 [local, 'http'],
                 [local, 'https'],
                 [local, 'net'],
